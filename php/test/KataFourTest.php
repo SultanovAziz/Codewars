@@ -1,0 +1,1 @@
+<?phpnamespace Test;use PHPUnit\Framework\TestCase;class KataFourTest extends TestCase{    public function next_bigger_number_successful()    {        $this->assertTrue(true);    }}
